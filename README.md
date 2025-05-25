@@ -310,6 +310,4 @@ Special thanks to:
 
 🌟 **Star this repository if you found it helpful!** 🌟
 
-[🚀 **Get Started**](#🛠️-installation--setup) | [📚 **Documentation**](#📚-additional-resources) | [🤝 **Contribute**](#🤝-contributing)
-
 </div>
