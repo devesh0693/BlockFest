@@ -306,7 +306,7 @@ Special thanks to:
 
 <div align="center">
 
-**Built with ❤️ by the Blockfest Team (Devesh Rawat , Sidhart Negi , Pranay Bisht , Saloni Singhal , Shubham Dabas )**
+**Built with ❤️ by the Blockfest Team (Devesh Rawat , Sidhart Negi , Pranay Bisht , Saloni Singhal , Shubham Dabas)**
 
 🌟 **Star this repository if you found it helpful!** 🌟
 
