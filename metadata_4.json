@@ -1,0 +1,19 @@
+{
+  "name": "VIP Ticket - Metaverse Fashion Week",
+  "description": "Exclusive access to Metaverse Fashion Week",
+  "image": "ipfs://bafybeiarmcnke3q4t5tfo765rj7keylgmcu4oipag5lnugfrp4usdopyne",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "Metaverse Fashion Week"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "Access",
+      "value": "Backstage"
+    }
+  ]
+}

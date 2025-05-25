@@ -1,0 +1,19 @@
+{
+  "name": "VIP Ticket - NFT Art Gallery Opening",
+  "description": "Exclusive access to NFT Art Gallery Opening",
+  "image": "ipfs://bafybeiez6wvn5gjta3fkzvv65oldoevxbidmgt2v7a4fioupf34mnxzxuy",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "NFT Art Gallery Opening"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "Access",
+      "value": "Backstage"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "VIP Ticket - DAO Governance Workshop",
+  "description": "Exclusive access to DAO Governance Workshop",
+  "image": "ipfs://bafybeihpoo2svmvw6me2oo5mqp62seu7ynbsg5uxd4eqnoftb2iigtat7i",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "DAO Governance Workshop"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "Access",
+      "value": "Backstage"
+    }
+  ]
+}

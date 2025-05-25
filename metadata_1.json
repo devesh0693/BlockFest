@@ -1,0 +1,19 @@
+{
+  "name": "VIP Ticket - Blockchain Summit 2023",
+  "description": "Exclusive access to Blockchain Summit 2023",
+  "image": "ipfs://bafybeidiruone3wadolwzvzm4hgrkvyddqrqoy73pd7c6y2hensxjzrarq",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "Blockchain Summit 2023"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "Access",
+      "value": "Backstage"
+    }
+  ]
+}

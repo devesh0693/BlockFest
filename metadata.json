@@ -1,0 +1,24 @@
+{
+  "name": "Event Ticket #1",
+  "description": "VIP Ticket for the Blockchain Conference 2025",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreiaprrnre5roegsgmbzwcvait2ildtepdrvmg5f6vh6jsb2s2ydsxq",
+  "attributes": [
+    {
+      "trait_type": "Event Type",
+      "value": "Concert"
+    },
+    {
+      "trait_type": "Location",
+      "value": "VIPS"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Date",
+      "value": "2025-06-15"
+    },
+    {
+      "trait_type": "Seat",
+      "value": "VIP-23"
+    }
+  ]
+}

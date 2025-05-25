@@ -1,0 +1,19 @@
+{
+  "name": "VIP Ticket - Web3 Developers Conference",
+  "description": "Exclusive access to Web3 Developers Conference",
+  "image": "ipfs://bafybeie2dqx7sizq7wi4nkwikvaluhokmfnmwcqsidvtt45nvxbzautt2i",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "Web3 Developers Conference"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "Access",
+      "value": "Backstage"
+    }
+  ]
+}

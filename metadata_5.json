@@ -1,0 +1,19 @@
+{
+  "name": "VIP Ticket - Crypto Investor Meetup",
+  "description": "Exclusive access to Crypto Investor Meetup",
+  "image": "ipfs://bafybeignjwkrrqm7xtj2wlzrop6yns6d2ug2jt7pvacvqyak62klo5xfgq",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "Crypto Investor Meetup"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "Access",
+      "value": "Backstage"
+    }
+  ]
+}

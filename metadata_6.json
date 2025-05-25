@@ -1,0 +1,19 @@
+{
+  "name": "VIP Ticket - DeFi Protocol Launch",
+  "description": "Exclusive access to DeFi Protocol Launch",
+  "image": "ipfs://bafybeihgnn2zzixjht76xnird7ladncw3iyx3y45bbevy3mew24lstxsxa",
+  "attributes": [
+    {
+      "trait_type": "Event",
+      "value": "DeFi Protocol Launch"
+    },
+    {
+      "trait_type": "Tier",
+      "value": "VIP"
+    },
+    {
+      "trait_type": "Access",
+      "value": "Backstage"
+    }
+  ]
+}
