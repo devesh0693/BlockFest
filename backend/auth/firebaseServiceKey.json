@@ -1,10 +1,10 @@
 {
     "type": "service_account",
     "project_id": "ticket-48fd0",
-    "private_key_id": "3981afe47b54f01f7fbbd580e4a3444af9fa30c3",
+    "private_key_id": "",
     "private_key": "
     "auth_provider_x509_cert_url": "",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40ticket-48fd0.iam.gserviceaccount.com",
-    "universe_domain": "googleapis.com"
+    "client_x509_cert_url": "",
+    "universe_domain": ""
   }
   
